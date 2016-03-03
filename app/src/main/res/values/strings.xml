@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework_6_CustomDrawables</string>
+    <string name="btn_text">Please enter your name</string>
+    <string name="et_text1">Field 1</string>
+    <string name="et_text2">Field 2</string>
+    <string name="et_text3">Field 3</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum aliquam lacinia sem, sed tristique arcu efficitur quis.
+        Ut eget eros vel tortor suscipit sollicitudin non ac quam.
+        Integer nec erat congue, sodales magna vel, facilisis massa.
+        Sed quis vulputate risus. Sed placerat ullamcorper ornare.
+        Sed laoreet mattis ipsum, vitae dapibus enim porttitor quis.
+        Praesent ornare ac quam vitae placerat. In hac habitasse platea dictumst.
+        Cras eu ex sed dolor pharetra fermentum vel eu enim.
+        Fusce fringilla rutrum augue, sit amet ullamcorper ante egestas eu.
+        Cras vitae nulla commodo, maximus dui ac, vestibulum tortor.
+        Donec in blandit mauris.
+        In pharetra, nunc ut blandit ornare, justo neque auctor neque,
+        sit amet maximus turpis mi at tortor. In tincidunt pretium ante in placerat.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam rhoncus sapien commodo nibh commodo, eu ullamcorper lacus volutpat.</string>
+</resources>
